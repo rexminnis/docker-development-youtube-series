@@ -1,3 +1,3 @@
 module github.com/docker-development-youtube-series/golang/introdouction/app
 
-go 1.15
+go 1.24
